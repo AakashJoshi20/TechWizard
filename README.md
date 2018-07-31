@@ -1,5 +1,5 @@
 # TechWizard
-College Technical Event
+CODEFIESTA :- Technical Event
 
 The application is a MCQ Test which we have developed using Java Swings.
 It has multiple frames :  1.)Login. 2.)Instructions. 3.)Test. 4.)Final Score.
